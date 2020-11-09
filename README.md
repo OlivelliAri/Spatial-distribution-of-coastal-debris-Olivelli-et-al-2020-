@@ -8,4 +8,4 @@ Marine debris represents a major threat for the environment. Plastic production 
 
 ### Graphical Abstract 
 
-![](https://github.com/OlivelliAri/Spatial_distribution_of_coastal_debris/blob/main/figure2.eps)
+![](https://github.com/OlivelliAri/Spatial_distribution_of_coastal_debris/blob/main/figure2.jpg)
